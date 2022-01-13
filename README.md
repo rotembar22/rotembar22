@@ -1,16 +1,36 @@
-### Hi there 👋
+## Welcome!!^_^
+---
 
-<!--
-**rotembaruch/rotembaruch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me?
 
-Here are some ideas to get you started:
+An engineer trying to make sense of data by using machine learning techniques. Currently working with Deloitte USI as an Analyst in Core Business Operations for a high revenue-generating account(State of Louisiana). Passionate about Business Analysis, and have experience in deploying scalable services to meet the business needs of clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Notable skills include but are not limited to -
+1. Python/R
+2. SQL
+3. NLP (sentiment analysis), CV ( action detection)
+4. Machine Learning(regression and classification algorithms)
+5. JAVA
+
+Be it managing a team, handling databases, learning economics & psychology, or interacting with new people; I find value and meaning in it all. I've always had the intention to connect these various dots and make something novel out of them. For me learning never stops; I keep learning every day and creating a better version of myself.
+
+Apart from this, you could find me reading in a corner.
+
+
+### ✏ Recent in Towards Data Science Articles
+____
+
+* [Extracting Data from Twitter using Python](https://towardsdatascience.com/extracting-data-from-twitter-using-python-5ab67bff553a)
+* [Indian Crime Data Analysis](https://towardsdatascience.com/indian-crime-data-analysis-85d3afdc0ceb)
+
+
+
+### To Connect
+---
+
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/shivanidandir)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shivanidandir/)
+
+
+----
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanidandir)
