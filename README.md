@@ -8,7 +8,7 @@ I am passionate about Data Science. Result-oriented individual recognized for ef
 Notable skills include but are not limited to -
 1. Machine Learning
 2. Deep Learning
-3. NLP ( Topic modeling, Sentiment Analesys, Word Embedding)
+3. NLP ( Topic modeling, Sentiment Analysis, Word Embedding)
 4. Computer Vision (GAN)
 5. Big Data (PySpark, Kafka)
 
