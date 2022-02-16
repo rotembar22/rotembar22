@@ -1,16 +1,9 @@
 ## Welcome
 ---
 
-### About Me
+Hello, on my GitHub you can find several projects I have worked on, most of them as part of my MS Intelligent Systems studies. Some of the work was done collaborating with my friend, Uria Levkovich.
 
-I am passionate about Data Science. Result-oriented individual recognized for effectively resolving challenging issues, with 3+ years experience executing data-driven Business Intelligence and Machine Learning solutions.
-
-Notable skills include but are not limited to -
-1. Machine Learning
-2. Deep Learning
-3. NLP ( Topic modeling, Sentiment Analysis, Word Embedding)
-4. Computer Vision (GAN)
-5. Big Data (PySpark, Kafka)
+1. **Topic modeling** is an unsupervised machine learning for clustering word groups and similar expressions that best characterize a set of documents. In this study, we examined two different topic modeling models, Gibbs and Non-negative Matrix Factorization (NMF). To test the models, we performed several experiments on two well-known datasets with different structures, and for evaluating the performance, we used a coherence score.
 
 
 
