@@ -1,7 +1,7 @@
 ## Welcome
 ---
 
-Hello, on my GitHub you can find several projects I have worked on, most of them as part of my MS Intelligent Systems studies. Some of the work was done collaborating with my friend, Uria Levkovich.
+Hello, on my GitHub you can find several projects I have worked on, most of them as part of my MS Intelligent Systems studies. Some of the work was done collaborating with my friend, [Levkovich Uria](https://github.com/uriaLevko).
 
 1. **Topic modeling** is an unsupervised machine learning for clustering word groups and similar expressions that best characterize a set of documents. In this study, we examined two different topic modeling models, Gibbs and Non-negative Matrix Factorization (NMF). To test the models, we performed several experiments on two well-known datasets with different structures, and for evaluating the performance, we used a coherence score.
 
