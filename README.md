@@ -9,7 +9,7 @@ Hello, on my GitHub you can find some of the projects I have worked on, most of 
 
 3. **Self-Attention layers in deep Convolutional Generative Adversarial Networks (GAN)**. This study examines the effect of adding self-attention layers to a GAN model. Self-Attention layers intend to add a dimension of memory to the model for generating images with better spatial significance. The measurement tool we used to measure the generated images quality is FID.
 
-4. A python library for implementing the model that Dr. Hen Hajaj and I presented in the paper: [**SimCSE for Encrypted Traffic Classification and Zero-Day Attack Detection**](https://github.com/rotembaruch/rotembaruch/edit/main/README.md).
+4. A python library for implementing the model that Dr. Hen Hajaj and I presented in the paper: [**SimCSE for Encrypted Traffic Classification and Zero-Day Attack Detection**](https://github.com/rotembaruch).
 
 5. **In construction**. Finding bots on Twitter. In this work, we created a new dataset containing about 1M tweets regarding vaccines by the Twitter API. We introduced a new method for finding bots by 4 criteria: number of followers, tweet rate, level of semantics, and similarity of the tweets. This work was done using PySpark and Google Cloud Platform (GCP).
 ### To Connect
