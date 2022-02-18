@@ -9,11 +9,11 @@ Hello, on my GitHub you can find some of the projects I have worked on, most of 
 
 3. **Self-Attention layers in deep Convolutional Generative Adversarial Networks (GAN)**. This study examines the effect of adding self-attention layers to a GAN model. Self-Attention layers intend to add a dimension of memory to the model for generating images with better spatial significance. The measurement tool we used to measure the generated images quality is FID.
 
-4. A python library for implementing the model that Dr. Hen Hajaj and I presented in the paper: [**SimCSE for Encrypted Traffic Classification and Zero-Day Attack Detection**](https://github.com/rotembaruch).
+4. **In construction**.A python library for implementing the model that [Dr. Hen Hajaj](https://scholar.google.co.il/citations?user=Zy2cIskAAAAJ&hl=en) and I presented in the paper: [**SimCSE for Encrypted Traffic Classification and Zero-Day Attack Detection**](https://github.com/rotembaruch).
 
 5. **In construction**. Finding bots on Twitter. In this work, we created a new dataset containing about 1M tweets regarding vaccines by the Twitter API. We introduced a new method for finding bots by 4 criteria: number of followers, tweet rate, level of semantics, and similarity of the tweets. This work was done using PySpark and Google Cloud Platform (GCP).
 
-6. A small project to practice the using of Apache Kafka. In this work, we performed a **semantic analysis** on the famous play Romeo and Juliet with batches of 100-line. The semantic analysis was performed according to the AFINN dictionary.
+6. A small project to practice the use of Apache Kafka. In this work, we performed a **semantic analysis** on the famous play Romeo and Juliet with batches of 100-line. The semantic analysis was performed according to the AFINN dictionary.
 
 ### To Connect
 ---
