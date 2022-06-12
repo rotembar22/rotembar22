@@ -3,7 +3,7 @@
 
 Hello, on my GitHub you can find some of the projects I have worked on, most of them as part of my MS Intelligent Systems studies. Several works were done collaborating with my friend, [Levkovich Uria](https://github.com/uriaLevko).
 
-1. A python library for implementing the model that [Dr. Hen Hajaj](https://scholar.google.co.il/citations?user=Zy2cIskAAAAJ&hl=en) and I presented in the paper: [**SimCSE for Encrypted Traffic Classification and Zero-Day Attack Detection**](https://ieeexplore.ieee.org/abstract/document/9780135).
+1. A python library for implementing the model that [Dr. Hen Hajaj](https://scholar.google.co.il/citations?user=Zy2cIskAAAAJ&hl=en) and I presented in the paper: [**SimCSE for Encrypted Traffic Detection and Zero-Day Attack Detection**](https://ieeexplore.ieee.org/abstract/document/9780135).
 
 2. [Topic modeling](https://github.com/rotembaruch/Gibbs-And-NMF-For-Topic-Modeling) is an unsupervised machine learning for clustering word groups and similar expressions that best characterize a set of documents. In this study, we examined two different topic modeling algorithms, Gibbs and Non-negative Matrix Factorization (NMF). To test the models, we performed several experiments on two well-known datasets with different structures, and for evaluating the performance, we used a coherence score.
 
