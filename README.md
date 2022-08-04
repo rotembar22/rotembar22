@@ -11,7 +11,6 @@ Hello, on my GitHub you can find some of the projects I have worked on, most of 
 
 4. [Self-Attention layers in deep Convolutional Generative Adversarial Networks (GAN)](https://github.com/rotembaruch/Self--Attention-Layers-in-Deep-Convolutional-Generative-Adversarial-Networks). This study examines the effect of adding self-attention layers to a GAN model. Self-Attention layers intend to add a dimension of memory to the model for generating images with better spatial significance. The measurement tool we used to measure the generated images quality is FID.
 
-5. A small project to practice the use of Apache Kafka. In this work, we performed a [semantic analysis](https://github.com/rotembaruch/Semantic-analysis-with-Apache-Kafka) on the famous play Romeo and Juliet with batches of 100-line. The semantic analysis was performed according to the AFINN dictionary.
 
 ### To Connect
 ---
