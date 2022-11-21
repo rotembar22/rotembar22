@@ -1,7 +1,7 @@
 ## Welcome
 ---
 
-Hello, on my GitHub you can find some of the projects I have worked on, most of them as part of my MS Intelligent Systems studies. Several works were done collaborating with my friend, [Levkovich Uria](https://github.com/uriaLevko).
+Hello, on my GitHub you can find some of the projects I have worked on, most of them as part of my MS Intelligent Systems studies.
 
 1. [Sentiment analysis on large-scale vaccine-related tweets using PySpark](https://github.com/rotembaruch/twitter-bot-detection). Collecting by Twitter API V2 about 1M tweets with academic research access during the first year of COVID19. Performing text preprocessing cleaning and employing TextBlob tool for semantic valuing. Used Spark for programming data parallelism and GCP for cloud computing.
 
