@@ -4,6 +4,7 @@
 Hello, on my GitHub you can find some of the projects I have worked on, most of them as part of my MS Intelligent Systems studies.
 
 **NLP | PySpark | GCP** 
+
 * [**Sentiment analysis on large-scale vaccine-related tweets using PySpark**](https://github.com/rotembaruch/twitter-bot-detection). 
 Collected by Twitter API V2 about 700K tweets with academic research access during the second year of COVID-19. Projecs includes text cleaning and employing the TextBlob tool for semantic valuing.
 
