@@ -6,6 +6,8 @@ Hello, on my GitHub you can find some of the projects I have worked on, most of 
 **NLP | PySpark | GCP** 
 
 * [**Sentiment analysis on large-scale vaccine-related tweets using PySpark**](https://github.com/rotembaruch/twitter-bot-detection). 
+
+
 Collected by Twitter API V2 about 700K tweets with academic research access during the second year of COVID-19. Projecs includes text cleaning and employing the TextBlob tool for semantic valuing.
 
 2. [Product recommendation system using word2vec embedding](https://github.com/rotembaruch/Product-Recommendation-System). Conducting a word2vec embedding algorithm on sequential purchased items, which aims to learn the semantic relationships between the items. By extracting the probability vector from a trained logistic regression model, the system offers the customer three to five relevant items.
