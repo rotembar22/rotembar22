@@ -6,16 +6,16 @@ Hello, on my GitHub you can find some of the projects I have worked on, most of 
 
 
 * **NLP** | [**Sentiment analysis on large-scale vaccine-related tweets using PySpark**](https://github.com/rotembaruch/twitter-bot-detection). 
-<br>Collected by Twitter API V2 about 700K tweets with academic research access during the second year of COVID-19. Projecs includes text cleaning and employing the TextBlob tool for semantic valuing. Used PySpark and GCP.
+<br>Collecting by Twitter API V2 about 700K tweets with academic research access during the second year of COVID-19. Projecs includes text cleaning and employing the TextBlob tool for semantic valuing. Used PySpark and GCP.
 
-**E-commerce** | [Product recommendation system using word2vec embedding](https://github.com/rotembaruch/Product-Recommendation-System). 
+* **E-commerce** | [Product recommendation system using word2vec embedding](https://github.com/rotembaruch/Product-Recommendation-System). 
 <br>Conducting a word2vec embedding algorithm on sequential purchased items, which aims to learn the semantic relationships between the items. By extracting the probability vector from a trained logistic regression model, the system offers the customer three to five relevant items.
 
-**E-commerce** | [Product recommendation system using word2vec embedding](https://github.com/rotembaruch/Product-Recommendation-System). 
-<br>Conducting a word2vec embedding algorithm on sequential purchased items, which aims to learn the semantic relationships between the items. By extracting the probability vector from a trained logistic regression model, the system offers the customer three to five relevant items.
+* **NLP** | [Offensive comments classification using Bert](https://github.com/rotembaruch/Product-Recommendation-System). 
+<br>Training Bert word embedding model for text classification. Project includes data preprocessing, model fine-tuning, and model evaluation.
 
-**E-commerce** | [Product recommendation system using word2vec embedding](https://github.com/rotembaruch/Product-Recommendation-System). 
-<br>Conducting a word2vec embedding algorithm on sequential purchased items, which aims to learn the semantic relationships between the items. By extracting the probability vector from a trained logistic regression model, the system offers the customer three to five relevant items.
+* **E-commerce** | [Customer segmentation by K-means](https://github.com/rotembaruch/Product-Recommendation-System). 
+<br>Implementing two K-means clustering algorithms to perform customer segmentation. Project includes EDA, data visualization, model tuning, and model evaluation.
 
 3. [Semi-supervised anomaly detection by variational-autoencoder (VAE)](https://github.com/rotembaruch/Semi-Supervised-Anomaly-Detection-by-Variational-Autoencoder-). Training a VAE model with only "normal" instances, creating a "normal model". Performing hyperparameter tuning with a validation set on the VAE reconstruction error, which measures how test instances are "far" from the "normal mode".
 
