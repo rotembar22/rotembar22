@@ -11,7 +11,7 @@ Hello, on my GitHub you can find some of the projects I have worked on.
 * **E-commerce** | [**Product recommendation system using word2vec embedding**](https://github.com/rotembaruch/Product-Recommendation-System). 
 <br>Conducting a word2vec embedding algorithm on sequential purchased items, which aims to learn the semantic relationships between the items. By extracting the probability vector from a trained logistic regression model, the system offers the customer three to five relevant items.
 
-* **NLP** | [**Offensive comments classification using Bert**](https://github.com/rotembaruch/Product-Recommendation-System). 
+* **NLP** | [**Offensive comments classification using Bert**](https://github.com/rotembar22/Offensive-comments-classification-using-Bert). 
 <br>Training Bert word embedding model for text classification. Project includes data preprocessing, model fine-tuning, and model evaluation.
 
 * **E-commerce** | [**Customer segmentation by K-means**](https://github.com/rotembaruch/Customer-Segmentation/blob/main/Customer_Segmentation.ipynb). 
