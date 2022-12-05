@@ -3,12 +3,19 @@
 
 Hello, on my GitHub you can find some of the projects I have worked on, most of them as part of my MS Intelligent Systems studies.
 
-**NLP | PySpark | GCP** 
 
-* [**Sentiment analysis on large-scale vaccine-related tweets using PySpark**](https://github.com/rotembaruch/twitter-bot-detection). 
-<br>Collected by Twitter API V2 about 700K tweets with academic research access during the second year of COVID-19. Projecs includes text cleaning and employing the TextBlob tool for semantic valuing.
 
-2. [Product recommendation system using word2vec embedding](https://github.com/rotembaruch/Product-Recommendation-System). Conducting a word2vec embedding algorithm on sequential purchased items, which aims to learn the semantic relationships between the items. By extracting the probability vector from a trained logistic regression model, the system offers the customer three to five relevant items.
+* **NLP** | [**Sentiment analysis on large-scale vaccine-related tweets using PySpark**](https://github.com/rotembaruch/twitter-bot-detection). 
+<br>Collected by Twitter API V2 about 700K tweets with academic research access during the second year of COVID-19. Projecs includes text cleaning and employing the TextBlob tool for semantic valuing. Used PySpark and GCP.
+
+**E-commerce** | [Product recommendation system using word2vec embedding](https://github.com/rotembaruch/Product-Recommendation-System). 
+<br>Conducting a word2vec embedding algorithm on sequential purchased items, which aims to learn the semantic relationships between the items. By extracting the probability vector from a trained logistic regression model, the system offers the customer three to five relevant items.
+
+**E-commerce** | [Product recommendation system using word2vec embedding](https://github.com/rotembaruch/Product-Recommendation-System). 
+<br>Conducting a word2vec embedding algorithm on sequential purchased items, which aims to learn the semantic relationships between the items. By extracting the probability vector from a trained logistic regression model, the system offers the customer three to five relevant items.
+
+**E-commerce** | [Product recommendation system using word2vec embedding](https://github.com/rotembaruch/Product-Recommendation-System). 
+<br>Conducting a word2vec embedding algorithm on sequential purchased items, which aims to learn the semantic relationships between the items. By extracting the probability vector from a trained logistic regression model, the system offers the customer three to five relevant items.
 
 3. [Semi-supervised anomaly detection by variational-autoencoder (VAE)](https://github.com/rotembaruch/Semi-Supervised-Anomaly-Detection-by-Variational-Autoencoder-). Training a VAE model with only "normal" instances, creating a "normal model". Performing hyperparameter tuning with a validation set on the VAE reconstruction error, which measures how test instances are "far" from the "normal mode".
 
