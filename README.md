@@ -1,7 +1,7 @@
 ## Welcome
 ---
 
-Hello, on my GitHub you can find some of the projects I have worked on, most of them as part of my MS Intelligent Systems studies.
+Hello, on my GitHub you can find some of the projects I have worked on.
 
 
 
@@ -14,16 +14,20 @@ Hello, on my GitHub you can find some of the projects I have worked on, most of 
 * **NLP** | [Offensive comments classification using Bert](https://github.com/rotembaruch/Product-Recommendation-System). 
 <br>Training Bert word embedding model for text classification. Project includes data preprocessing, model fine-tuning, and model evaluation.
 
-* **E-commerce** | [Customer segmentation by K-means](https://github.com/rotembaruch/Product-Recommendation-System). 
+* **E-commerce** | [Customer segmentation by K-means](https://github.com/rotembaruch/Customer-Segmentation/blob/main/Customer_Segmentation.ipynb). 
 <br>Implementing two K-means clustering algorithms to perform customer segmentation. Project includes EDA, data visualization, model tuning, and model evaluation.
 
-3. [Semi-supervised anomaly detection by variational-autoencoder (VAE)](https://github.com/rotembaruch/Semi-Supervised-Anomaly-Detection-by-Variational-Autoencoder-). Training a VAE model with only "normal" instances, creating a "normal model". Performing hyperparameter tuning with a validation set on the VAE reconstruction error, which measures how test instances are "far" from the "normal mode".
+___________________________________________________________________________________________________________________________________________________
 
-4. [Topic modeling](https://github.com/rotembaruch/Gibbs-And-NMF-For-Topic-Modeling) is an unsupervised machine learning for clustering word groups and similar expressions that best characterize a set of documents. In this study, we examined two different topic modeling algorithms, Gibbs and Non-negative Matrix Factorization (NMF). To test the models, we performed several experiments on two well-known datasets with different structures, and for evaluating the performance, we used a coherence score.
+The following projects were conducted in joint work as part of courses within my  MS Intelligent Systems studies. They will contain a paper and code implementation.
 
-5. [Self-Attention layers in deep Convolutional Generative Adversarial Networks (GAN)](https://github.com/rotembaruch/Self--Attention-Layers-in-Deep-Convolutional-Generative-Adversarial-Networks). Comparing GAN models with and without self-attention layers, which intend to add a dimension of memory to the model for generating images with better spatial significance. The measurement tool we used to measure the generated image quality is FID.
+* **Deep Learning** | [Semi-supervised anomaly detection by variational-autoencoder (VAE)](https://github.com/rotembaruch/Semi-Supervised-Anomaly-Detection-by-Variational-Autoencoder-). Training a VAE model with only "normal" instances, creating a "normal model". Performing hyperparameter tuning with a validation set on the VAE reconstruction error, which measures how test instances are "far" from the "normal mode".
 
-6. [Speaker gender identification using pitch-based features extraction](https://github.com/rotembaruch/rotembaruch-Speaker-Gender-Identification-Using-Pitch-based-Features-Extraction). 
+* **NLP** |  [Topic modeling](https://github.com/rotembaruch/Gibbs-And-NMF-For-Topic-Modeling) is an unsupervised machine learning for clustering word groups and similar expressions that best characterize a set of documents. In this study, we examined two different topic modeling algorithms, Gibbs and Non-negative Matrix Factorization (NMF). To test the models, we performed several experiments on two well-known datasets with different structures, and for evaluating the performance, we used a coherence score.
+
+* **Computer Vision** |  [Self-Attention layers in deep Convolutional Generative Adversarial Networks (GAN)](https://github.com/rotembaruch/Self--Attention-Layers-in-Deep-Convolutional-Generative-Adversarial-Networks). Comparing GAN models with and without self-attention layers, which intend to add a dimension of memory to the model for generating images with better spatial significance. The measurement tool we used to measure the generated image quality is FID.
+
+
 
 
 ### To Connect
