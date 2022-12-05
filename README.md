@@ -14,9 +14,6 @@ Hello, on my GitHub you can find some of the projects I have worked on.
 * **NLP** | [**Offensive comments classification using Bert**](https://github.com/rotembar22/Offensive-comments-classification-using-Bert). 
 <br>Training Bert word embedding model for text classification. Project includes data preprocessing, model fine-tuning, and model evaluation.
 
-* **E-commerce** | [**Customer segmentation by K-means**](https://github.com/rotembaruch/Customer-Segmentation/blob/main/Customer_Segmentation.ipynb). 
-<br>Implementing two K-means clustering algorithms to perform customer segmentation. Project includes EDA, data visualization, model tuning, and model evaluation.
-
 ___________________________________________________________________________________________________________________________________________________
 
 The following projects were conducted in joint work as part of courses within my  MS Intelligent Systems studies. They will contain a paper and code implementation.
