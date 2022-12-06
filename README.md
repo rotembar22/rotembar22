@@ -28,11 +28,11 @@ The following projects were conducted in joint work as part of courses within my
 <br>Comparing GAN models with and without self-attention layers, which intend to add a dimension of memory to the model for generating images with better spatial significance. The measurement tool we used to measure the generated image quality is FID.
 
 * **Speech Processing** |  [**Speaker Gender Identification Using Pitch-based Features Extraction**](https://github.com/rotembar22/Speaker-Gender-Identification-Using-Pitch-based-Features-Extraction) 
-Performing MFCC features extracting on audio data and testing five classification models: K-nearest neighbor (KNN), naïve Bayes, multi-layer perceptron, random forest, and support vector machine (SVM). In addition, an experiment with dimensionality reduction using PCA was examined.
+<br>Performing MFCC features extracting on audio data and testing five classification models: K-nearest neighbor (KNN), naïve Bayes, multi-layer perceptron, random forest, and support vector machine (SVM). In addition, an experiment with dimensionality reduction using PCA was examined.
 
 
 * **Reinforcement Learning** |  [**Reinforcement Learning for Vehicle Routing Problem**](https://github.com/rotembar22/Reinforcement-Learning-for-Vehicle-Routing-Problem-VRP-) 
-As presented in several recent studies, examine the use of reinforcement learning methods for the VRP. Additionally, we will conduct an experiment examining the results of using gated recurrent units (GRU) instead of recurrent neural networks (RNN) in the model architecture.
+<br>As presented in several recent studies, examine the use of reinforcement learning methods for the VRP. Additionally, we will conduct an experiment examining the results of using gated recurrent units (GRU) instead of recurrent neural networks (RNN) in the model architecture.
 
 
 ### To Connect
