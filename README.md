@@ -22,7 +22,7 @@ The following projects were conducted in joint work as part of courses within my
 <br>Training a VAE model with only "normal" instances, creating a "normal model". Performing hyperparameter tuning with a validation set on the VAE reconstruction error, which measures how test instances are "far" from the "normal mode".
 
 * **NLP** |  [**Topic modeling**](https://github.com/rotembaruch/Gibbs-And-NMF-For-Topic-Modeling) 
-<br>Topic modeling is an unsupervised machine learning for clustering word groups and similar expressions that best characterize a set of documents. In this study, we examined two different topic modeling algorithms, Gibbs and Non-negative Matrix Factorization (NMF). To test the models, we performed several experiments on two well-known datasets with different structures, and to evaluating the performance, we used a coherence score.
+<br>Topic modeling is an unsupervised machine learning approach for clustering word groups and similar expressions that best characterize a set of documents. In this study, we examined two different topic modeling algorithms, Gibbs and Non-negative Matrix Factorization (NMF). We performed several experiments on two well-known datasets with different structures to evaluate the models.
 
 * **Computer Vision** |  [**Self-Attention layers in deep Convolutional Generative Adversarial Networks (GAN)**](https://github.com/rotembaruch/Self--Attention-Layers-in-Deep-Convolutional-Generative-Adversarial-Networks). 
 <br>Comparing GAN models with and without self-attention layers, which intend to add a dimension of memory to the model for generating images with better spatial significance. The measurement tool we used to measure the generated image quality is FID.
