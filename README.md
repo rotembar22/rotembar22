@@ -1,5 +1,8 @@
-## Welcome
----
+<!-- <img src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e475z0s30l4crjq7nvpzygw53ri44glm5qsrm37b0vs&rid=giphy.gif&ct=g"> -->
+
+### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+
 
 Hello, on my GitHub you can find some of the projects I have worked on.
 
